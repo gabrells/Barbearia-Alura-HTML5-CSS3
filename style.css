@@ -165,11 +165,11 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-	font-size: 34px;
+	font-size: 30px;
 }
 
 .produtos h2 {
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: bold;
 }
 
@@ -207,6 +207,15 @@ form label, form legend {
 
 select {
 	margin: 0 20px;
+}
+
+.horario-desejado {
+	margin: 10px 0px;
+
+}
+
+.horario-desejado select {
+	margin: 5px 25px;
 }
 
 .checkbox {
